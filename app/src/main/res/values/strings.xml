@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Roamer</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="masuk">Sign In</string>
+    <string name="google">Continue with Google</string>
+    <string name="daftar">Sign Up</string>
+    <string name="daftar_text">Enter your email and password and start creating</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_continue">Welcome.</string>
+    <string name="error_empty_name">Please Insert Your Name</string>
+    <string name="error_empty_email">Please Insert Your Email</string>
+    <string name="error_invalid_email">Your Email Is Invalid</string>
+    <string name="error_empty_password">Please Insert Your Password</string>
+    <string name="error_password_more_6">Password must be at least 8 characters</string>
+    <string name="label_password">Password...</string>
+    <string name="welcome_tag">Let\'s Register</string>
+    <string name="your_email">Email ...</string>
+    <string name="action_login">Login</string>
+    <string name="label_is_havent_account">Don\'t have account ?</string>
+    <string name="action_to_register">Register Here</string>
+    <string name="register_text">Please register to join full experience.</string>
+    <string name="your_name">Name ...</string>
+    <string name="action_register">Register</string>
+    <string name="label_is_have_account">Already have account ?</string>
+    <string name="action_to_login">Login Here</string>
+    <string name="action_login_greet">I\'am new here</string>
+    <string name="action_signin">Sign In</string>
+    <string name="nama">Nama</string>
+    <string name="profile">Profile</string>
+    <string name="greeting_profile">YOUR ADVENTURE GUIDE</string>
+    <string name="history">History</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="logout">Logout</string>
+    <string name="registration_success">Registration Success</string>
+    <string name="registration_error_message">Registration Failed</string>
+    <string name="error_register_login">Please Correct Your Registration Format</string>
+    <string name="login_success_message">Login Success</string>
+    <string name="login_error_message">Login Failed</string>
+    <string name="error_login_format">Please Correct Your Login Format</string>
+    <string name="message_logout_confirm">Are You Sure Want To Logout?</string>
+    <string name="action_yes">Logout</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="favorite_success">Liked</string>
+
+    <!-- kuesioner -->
+    <string name="kue_hobi">Lets Start With Your Hobby</string>
+    <string name="hobi">What is your hobby?</string>
+    <string name="hobi_a">Hobby a</string>
+    <string name="hobi_b">Hobby b</string>
+    <string name="hobi_c">Hobby c</string>
+
+    <string name="kue_favorit">Favorite Place</string>
+    <string name="favorit">What is your favorite place?</string>
+    <string name="favorit_a">Places</string>
+    <string name="favorit_b">Places</string>
+    <string name="favorit_c">Places</string>
+
+    <string name="kue_in_out">Indoor or Outdoor</string>
+    <string name="in_out">What do you prefer?</string>
+    <string name="in">Indoor</string>
+    <string name="out">Outdoor</string>
+
+    <string name="kue_waktu">Welcome Roamers</string>
+    <string name="waktu">Please Choose</string>
+    <string name="waktu_a">Waktu a</string>
+    <string name="waktu_b">Waktu b</string>
+    <string name="waktu_c">Waktu c</string>
+
+    <string name="kue_harga">Price Preference</string>
+    <string name="harga">What price do you want?</string>
+    <string name="harga_a">Harga a</string>
+    <string name="harga_b">Harga b</string>
+    <string name="harga_c">Harga c</string>
+
+    <string name="next">Next</string>
+    <string name="preference_upload_success">Upload Preference Success</string>
+    <string name="preference_upload_error">Upload Preference Failed</string>
+    <string name="random_place_error">cannot get random place</string>
+</resources>

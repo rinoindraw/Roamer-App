@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="dark_blue">#023E8A</color>
+    <color name="light_blue">#0096C7</color>
+    <color name="vlight_blue">#ADE8F4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#B6B6B6</color>
+
+    <color name="blue">#8ACDD7</color>
+    <color name="dark_grey">#161A30</color>
+    <color name="blueAuth">#EDF6F9</color>
+    <color name="blueText">#265073</color>
+    <color name="blueButton">#006D77</color>
+    <color name="colorDarkBlue">#1D4E5F</color>
+    <color name="colorBlackDim">#74000000</color>
+    <color name="blue_sky">#00d7ff</color>
+    <color name="app_window">#F9FBE7</color>
+    <color name="dark_green">#046425</color>
+    <color name="blue_green">#52CBAC</color>
+    <color name="very_dark_green">#305E5C</color>
+    <color name="warm_red">#D25380</color>
+    <color name="auth_blue">#E7FCDD</color>
+    <color name="light_white">#D2D2D2</color>
+    <color name="blue1">#FF4682B4</color>
+    <color name="blue2">#FF396D75</color>
+    <color name="splash_dark_blue">#262632</color>
+    <color name="hintTextColor">#787878</color>
+
+</resources>
